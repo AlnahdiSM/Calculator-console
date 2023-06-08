@@ -1,0 +1,15 @@
+D:\مجلد جديد\calculator Homework\calculator Homework\bin\Debug\net6.0\calculator Homework.exe
+D:\مجلد جديد\calculator Homework\calculator Homework\bin\Debug\net6.0\calculator Homework.deps.json
+D:\مجلد جديد\calculator Homework\calculator Homework\bin\Debug\net6.0\calculator Homework.runtimeconfig.json
+D:\مجلد جديد\calculator Homework\calculator Homework\bin\Debug\net6.0\calculator Homework.dll
+D:\مجلد جديد\calculator Homework\calculator Homework\bin\Debug\net6.0\ref\calculator Homework.dll
+D:\مجلد جديد\calculator Homework\calculator Homework\bin\Debug\net6.0\calculator Homework.pdb
+D:\مجلد جديد\calculator Homework\calculator Homework\obj\Debug\net6.0\calculator Homework.csproj.AssemblyReference.cache
+D:\مجلد جديد\calculator Homework\calculator Homework\obj\Debug\net6.0\calculator Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\مجلد جديد\calculator Homework\calculator Homework\obj\Debug\net6.0\calculator Homework.AssemblyInfoInputs.cache
+D:\مجلد جديد\calculator Homework\calculator Homework\obj\Debug\net6.0\calculator Homework.AssemblyInfo.cs
+D:\مجلد جديد\calculator Homework\calculator Homework\obj\Debug\net6.0\calculator Homework.csproj.CoreCompileInputs.cache
+D:\مجلد جديد\calculator Homework\calculator Homework\obj\Debug\net6.0\calculator Homework.dll
+D:\مجلد جديد\calculator Homework\calculator Homework\obj\Debug\net6.0\ref\calculator Homework.dll
+D:\مجلد جديد\calculator Homework\calculator Homework\obj\Debug\net6.0\calculator Homework.pdb
+D:\مجلد جديد\calculator Homework\calculator Homework\obj\Debug\net6.0\calculator Homework.genruntimeconfig.cache
